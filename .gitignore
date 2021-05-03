@@ -1,0 +1,11 @@
+# Ignore everything
+
+*
+
+# But not these files...
+
+!.gitignore
+!HaroldoDragugai.db
+!HaroldoDragugai.db.old
+!HaroldoDragugai.fwl
+!HaroldoDragugai.fwl.old
