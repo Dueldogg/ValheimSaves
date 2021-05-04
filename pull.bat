@@ -1,5 +1,5 @@
 @echo off
 set PATH=%PATH%;C:\Program Files\Git\cmd
-git pull origin public
+git pull
 echo Press Enter...
 read
